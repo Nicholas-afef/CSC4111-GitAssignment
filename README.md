@@ -1,4 +1,4 @@
-# CSC4111-GitAssignment
+# Github and git conflict
 helloworld to practice git
 Nicholas Foster
 hb7798
